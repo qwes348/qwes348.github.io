@@ -13,7 +13,7 @@
 [[main]]
   name = "Test"
   pageRef = "test"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "Blog"
@@ -21,41 +21,93 @@
   weight = 10
 
 [[main]]
- name = "Parent"
+ name = "Unity"
  weight = 20
 
 [[main]]
- name = "example sub-menu 1"
- parent = "Parent"
- pageRef = "posts"
- weight = 20
+  name = "Shader"
+  parent = "Unity"
+  pageRef = "unity/shader"
+  weight = 20
 
 [[main]]
- name = "example sub-menu 2"
- parent = "Parent"
- pageRef = "posts"
- weight = 20
-
-[[subnavigation]]
- name = "An interesting topic"
- pageRef = "tags/interesting-topic"
- weight = 10
-
-[[subnavigation]]
- name = "My Awesome Category"
- pre = "github"
- pageRef = "categories/awesome"
- weight = 20
+  name = "C#"
+  parent = "Unity"
+  pageRef = "unity/csharp"
+  weight = 20
 
 [[main]]
- name = "Categories"
- pageRef = "categories"
- weight = 20
+  name = "Tips"
+  parent = "Unity"
+  pageRef = "unity/tips"
+  weight = 20
 
 [[main]]
- name = "Tags"
- pageRef = "tags"
- weight = 30
+  name = "Vfx"
+  parent = "Unity"
+  pageRef = "unity/vfx"
+  weight = 20
+
+[[main]]
+  name = "UI"
+  parent = "Unity"
+  pageRef = "unity/ui"
+  weight = 20  
+
+[[main]]
+  name = "2D"
+  parent = "Unity"
+  pageRef = "unity/2d"
+  weight = 20  
+
+[[main]]
+  name = "Network"
+  parent = "Unity"
+  pageRef = "unity/network"
+  weight = 20
+
+[[main]]
+  name = "iOS"
+  parent = "Unity"
+  pageRef = "unity/ios"
+  weight = 20
+
+# [[main]]
+#  name = "Parent"
+#  weight = 20
+
+# [[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+# [[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+# [[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+# [[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+# [[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+# [[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
 
 
 # -- Footer Menu --

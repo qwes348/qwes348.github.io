@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/posts/hello-world/</loc>
-    <lastmod>2024-04-09T02:07:00+09:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-04-09T02:07:00+09:00</lastmod>
     <changefreq>always</changefreq>
@@ -26,7 +20,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kr"
+      hreflang="ko"
       href="//localhost:1313/"
     />
   </url>
@@ -60,7 +54,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kr"
+      hreflang="ko"
       href="//localhost:1313/series/"
     />
   </url>
@@ -76,7 +70,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kr"
+      hreflang="ko"
       href="//localhost:1313/tags/"
     />
   </url>
@@ -93,6 +87,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/test/part2-1.%EC%96%B8%EB%A6%AC%EC%96%BC-%EC%97%94%EC%A7%84-%EA%B2%8C%EC%9E%84-%EC%A0%9C%EC%9E%91-%EA%B8%B0%EC%B4%88/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -103,7 +102,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kr"
+      hreflang="ko"
       href="//localhost:1313/authors/"
     />
   </url>
@@ -118,7 +117,7 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kr"
+      hreflang="ko"
       href="//localhost:1313/categories/"
     />
   </url>

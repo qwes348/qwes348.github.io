@@ -1,4 +1,4 @@
-languageCode = "kr"
+languageCode = "ko"
 languageName = "한국어"
 weight = 1
 title = "오니부기 Devlog"
@@ -17,7 +17,7 @@ title = "오니부기 Devlog"
    name = "Oniboogie"
    image = "img/wartortle.png"
    headline = "Unity 클라이언트 개발자 입니다"
-   bio = "A little bit about you"
+   bio = ""
    links = [
      { email = "hwangkyoung3844@gmail.com" },
      { link = "https://trialdeveloper.tistory.com/" },

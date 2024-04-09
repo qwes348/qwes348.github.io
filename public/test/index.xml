@@ -5,8 +5,18 @@
     <link>//localhost:1313/test/</link>
     <description>Recent content in Thumbnails on 오니부기 Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>kr</language>
+    <language>ko</language>
     <copyright>© 2024 Oniboogie</copyright>
     <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Part2] 1.언리얼 엔진 게임 제작 기초</title>
+      <link>//localhost:1313/test/part2-1.%EC%96%B8%EB%A6%AC%EC%96%BC-%EC%97%94%EC%A7%84-%EA%B2%8C%EC%9E%84-%EC%A0%9C%EC%9E%91-%EA%B8%B0%EC%B4%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/test/part2-1.%EC%96%B8%EB%A6%AC%EC%96%BC-%EC%97%94%EC%A7%84-%EA%B2%8C%EC%9E%84-%EC%A0%9C%EC%9E%91-%EA%B8%B0%EC%B4%88/</guid>
+      <description>언리얼 게임 프레임웍 # 게임 콘텐츠의 구조 # 게임 제작을 위해 언리얼 엔</description>
+      
+    </item>
+    
   </channel>
 </rss>
