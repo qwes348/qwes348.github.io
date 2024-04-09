@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "2d7b3e6a8119906d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2123a3079e9855",
+        "type": "tabs",
+        "dimension": 53.70860927152318,
+        "children": [
+          {
+            "id": "3de20676c2d9af73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✌️개인 공간/📝개인 공간_빠른 메모.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "14c0356038b9e54e",
+        "type": "tabs",
+        "dimension": 46.29139072847682,
+        "children": [
+          {
+            "id": "cfaa30708074a5dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚔️ProjectDMC/TODO칸반 카드들/카드 템플릿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78effa3a9f04298b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚔️ProjectDMC/TODO칸반 카드들/마사 -  서노하 태그 공격.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602e7e32171089a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe49460779924ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b24bca99c2ad1a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30d73ca1806aaaf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e92537627a7c6251",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d62f402c5568aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9c6ade32a1451c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c6fa63149135be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "✌️개인 공간/📝개인 공간_빠른 메모.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1254f4fa69215d86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "✌️개인 공간/📝개인 공간_빠른 메모.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b461f469b12f395",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3702e967b8de9a98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✌️개인 공간/📝개인 공간_빠른 메모.md"
+              }
+            }
+          },
+          {
+            "id": "27bdc97cc9739703",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a3e1e7ce595141",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a5afe71bf0c0fa9",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3de20676c2d9af73",
+  "lastOpenFiles": [
+    "✌️개인 공간/_index_.md",
+    "⚔️ProjectDMC/🔥TODO칸반.md",
+    "✌️개인 공간/📝개인 공간_빠른 메모.md",
+    "✌️개인 공간",
+    "⚔️ProjectDMC/TODO칸반 카드들/마사 -  서노하 태그 공격.md",
+    "🏢Nfinity7/🔊ETRI오디오 시스템/🏢아파트 컨텐츠.md",
+    "🏢Nfinity7/🔊ETRI오디오 시스템/🔊오디오 시스템 2023.md",
+    "🏢Nfinity7/🔊ETRI오디오 시스템/_index_.md",
+    "🏢Nfinity7/🔊ETRI오디오 시스템",
+    "🏢Nfinity7/📝Nfinity7_빠른 메모.md",
+    "🏢Nfinity7/🐈코이네코/🛠️업데이트 노트.md",
+    "🏢Nfinity7/🐈코이네코/😼코이네코 API.md",
+    "🏢Nfinity7/🐈코이네코/📝코이네코 메모.md",
+    "🏢Nfinity7/🐈코이네코/_index_.md",
+    "🏢Nfinity7/🐈코이네코",
+    "🏢Nfinity7/♟️Project NAI/📝NAI 메모.md",
+    "🏢Nfinity7/♟️Project NAI/_index_.md",
+    "🏢Nfinity7/♟️Project NAI/✅NAI TODO.md",
+    "🏢Nfinity7/♟️Project NAI",
+    "⚔️ProjectDMC/TODO칸반 카드들/마사 딜레이 공격 막타 카메라 블렌드.md",
+    "⚔️ProjectDMC/TODO칸반 카드들/카드 템플릿.md",
+    "⚔️ProjectDMC/_index_.md",
+    "🏢Nfinity7/_index_.md",
+    "옵시디언 연습/_index_.md",
+    "📓Daily/2023-08-23.md",
+    "⚔️ProjectDMC/동기화 테스트.md",
+    "⚔️ProjectDMC/TODO칸반 카드들",
+    "✏️옵시디언 사용법/_index_.md",
+    "옵시디언 연습/FolderNoteTest.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "옵시디언 사용법/참조용 폴더",
+    "⚔️ProjectDMC",
+    "🏢Nfinity7/ETRI오디오 시스템",
+    "🏢Nfinity7",
+    "옵시디언 연습",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas"
+  ]
+}

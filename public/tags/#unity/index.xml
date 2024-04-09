@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#Unity on 오니부기 Devlog</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in #Unity on 오니부기 Devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>© 2024 Oniboogie</copyright>
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기</title>
+      <link>//localhost:1313/unity/2d/unity2d-%EA%B3%B5%EC%A4%91-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%BC%EB%B0%A9%ED%86%B5%ED%96%89-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/unity/2d/unity2d-%EA%B3%B5%EC%A4%91-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%BC%EB%B0%A9%ED%86%B5%ED%96%89-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0/</guid>
+      <description>개요 # 정말 오랜만에 2D프로젝트를 만들고있다. 무한 런게임을 제작</description>
+      
+    </item>
+    
+  </channel>
+</rss>

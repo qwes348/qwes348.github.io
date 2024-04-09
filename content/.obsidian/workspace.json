@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "8f79e6d94389c224",
+    "type": "split",
+    "children": [
+      {
+        "id": "2315942d939735e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e594a074d2debdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17105dc1eafb6cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1f0e12989d81ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30cfbf7907ee1fb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f8fed43f0855201",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "609e834379b3b3e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 553.5
+  },
+  "right": {
+    "id": "598d4862e4b747d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f32d851399ab8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a156c72a47a587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0191af292dd8fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4e336d0d0384181",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "acff0db34449df0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/index.md"
+              }
+            }
+          },
+          {
+            "id": "c7b537b0bddc2f93",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5ab6bbda59c85da",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "5e594a074d2debdf",
+  "lastOpenFiles": [
+    "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/img/Pasted_image_20240409230907.png",
+    "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/img/Pasted_image_20240409230858.png",
+    "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/index.md",
+    "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/img/example.jpg",
+    "무제 파일.md",
+    "static",
+    "posts/Hello-World.md",
+    "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기",
+    "unity/2d/무제 파일.md",
+    "unity/2d/img/Pasted image 20240410002949.png",
+    "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/img/Pasted_image_20240410003012.png",
+    "unity/2d/[Unity2D] 공중 플랫폼(일방통행 플랫폼) 만들기s/[Unity2D] 공중 플랫폼(일방통행 플랫폼) 만들기s.md",
+    "unity/2d/[Unity2D] 공중 플랫폼(일방통행 플랫폼) 만들기s/Untitled.md",
+    "unity/2d/2d.md",
+    "unity/2d/[Unity2D] 공중 플랫폼(일방통행 플랫폼) 만들기s",
+    "posts/imgtest/img.md",
+    "posts/imgtest/imgtest.md",
+    "posts/imgtest",
+    "unity/2d/_index.md",
+    "attachments/Untitled.md",
+    "unity/2d/img/img.md",
+    "unity/2d/(Unity2D) 공중 플랫폼(일방통행 플랫폼) 만들기/img",
+    "attachments/Pasted_image_20240409230748.png",
+    "attachments/attachments.md",
+    "attachments",
+    "unity/2d/attachments",
+    "Pasted image 20240409230608.png",
+    "test/_index.md",
+    "Spaces/Home",
+    "Spaces"
+  ]
+}

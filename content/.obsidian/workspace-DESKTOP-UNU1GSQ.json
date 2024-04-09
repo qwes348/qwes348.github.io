@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "2d7b3e6a8119906d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c398c60325675f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a7db461786af3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nfinity7/코이네코/업데이트 노트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602e7e32171089a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe49460779924ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b24bca99c2ad1a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30d73ca1806aaaf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e92537627a7c6251",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "de96aecf64bc8ef0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caa78215d8936fa2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d62f402c5568aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9c6ade32a1451c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c6fa63149135be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nfinity7/코이네코/업데이트 노트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1254f4fa69215d86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nfinity7/코이네코/업데이트 노트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b461f469b12f395",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3702e967b8de9a98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nfinity7/코이네코/업데이트 노트.md"
+              }
+            }
+          },
+          {
+            "id": "27bdc97cc9739703",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a3e1e7ce595141",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a5afe71bf0c0fa9",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-rich-links:Rich Links": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5a7db461786af3e8",
+  "lastOpenFiles": [
+    "Nfinity7/코이네코/코이네코 API.md",
+    "ProjectDMC/TODO칸반.md",
+    "ProjectDMC/DMC 메모.md",
+    "ProjectDMC/동기화 테스트.md",
+    "Nfinity7/Nfinity7_빠른 메모.md",
+    "Nfinity7/♟️Project NAI/📝NAI 메모.md",
+    "Obsidian 사용법/🔗옵시디언 동기화 관련 사용법.md",
+    "Nfinity7/코이네코/iOS + 구글Ads 전환(이벤트) 보내는법 탐색.md",
+    "개인 공간/개인 공간_빠른 메모.md",
+    "ProjectDMC/TODO칸반 카드들/마사 공격 히트판정 적용.md",
+    "개인 공간/개인 공간.md",
+    "개인 공간",
+    "ProjectDMC/TODO칸반 카드들/카드 템플릿.md",
+    "ProjectDMC/TODO칸반 카드들/마사 딜레이 공격 막타 카메라 블렌드.md",
+    "ProjectDMC/TODO칸반 카드들/마사 -  서노하 태그 공격.md",
+    "ProjectDMC/TODO칸반 카드들/TODO칸반 카드들.md",
+    "ProjectDMC/TODO칸반 카드들",
+    "ProjectDMC/ProjectDMC.md",
+    "ProjectDMC",
+    "Obsidian 사용법/🔗옵시디언 사용법 링크 모음.md",
+    "Obsidian 사용법/Obsidian 사용법.md",
+    "Obsidian 사용법/(펌)옵시디언 Git 안드로이드 동기화.md",
+    "Obsidian 사용법",
+    "🏢Nfinity7/🐈코이네코/📝코이네코 메모.md",
+    "⚔️ProjectDMC/🔥TODO칸반.md",
+    "⚔️ProjectDMC/TODO칸반 카드들/마사 공격 히트판정 적용.md",
+    "⚔️ProjectDMC/TODO칸반 카드들/마사 -  서노하 태그 공격.md",
+    "⚔️ProjectDMC/TODO칸반 카드들/마사 딜레이 공격 막타 카메라 블렌드.md",
+    "옵시디언 연습/_index_.md",
+    "⚔️ProjectDMC/동기화 테스트.md",
+    "✌️개인 공간",
+    "🏢Nfinity7/🔊ETRI오디오 시스템",
+    "🏢Nfinity7/🐈코이네코",
+    "🏢Nfinity7/♟️Project NAI",
+    "⚔️ProjectDMC/TODO칸반 카드들",
+    "옵시디언 사용법/참조용 폴더",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas"
+  ]
+}
