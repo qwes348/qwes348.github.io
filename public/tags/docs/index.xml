@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Blowfish</title>
+    <link>//localhost:1313/tags/docs/</link>
+    <description>Recent content in Docs on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Oniboogie</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thumbnails</title>
+      <link>//localhost:1313/test/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/test/</guid>
+      <description>Thumbnails # Blowfish was enhanced in order to make it easy to add visual support to your posts. To do so, you just need to place an image file (almost all formats are supported but we recommend .</description>
+      
+    </item>
+    
+  </channel>
+</rss>
