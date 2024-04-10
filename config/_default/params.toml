@@ -78,6 +78,7 @@ smartTOCHideUnfocusedChildren = false
   showWordCount = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
+  showcomments = true
 
 [list]
   showHero = true
@@ -148,3 +149,8 @@ smartTOCHideUnfocusedChildren = false
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[utteranc]
+ repository = "qwes348/blog-comments"
+ issue_term = "pathname"
+ theme = "gruvbox-dark"
