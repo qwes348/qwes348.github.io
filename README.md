@@ -24,6 +24,7 @@ $ git submodule update --init --recursive
 `themes\blowfish\layouts\partials` 경로에 추가해주세요
 
 ```html
+comments.html
 <!-- Utteranc댓글 -->
 <script
   src="https://utteranc.es/client.js"
