@@ -141,6 +141,29 @@
   <meta name="theme-color"/>
   
   
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyC4QxAtP3a7gOMF5PLtaE1-d9kw4GwnxSk",
+      authDomain: "AIzaSyC4QxAtP3a7gOMF5PLtaE1-d9kw4GwnxSk",
+      projectId: "hugo-blog-2bde4",
+      storageBucket: "hugo-blog-2bde4.appspot.com",
+      messagingSenderId: "256748652805",
+      appId: "1:256748652805:web:02495ae8e81fdacff30f6c",
+      measurementId: "G-6NF2C0361C"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  
+  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
